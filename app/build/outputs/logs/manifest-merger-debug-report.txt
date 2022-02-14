@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\62c88fcffc2bbfb71227ca1e0de3d4d9\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\1609763f46c85f7b614c10186264cb65\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\982d01b9ecc77ec5b450ac83fa8533fa\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\e1e7f858bc95c05809f8d24e653ea2f8\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\2551c7702de3d7656efee5fd4c9d8e9f\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\aa5628243cc3f588943bdc04dba1594f\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c41d104b0a1ee2d23059161df261612e\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c9dcf85699ac4200e1d3cfc1e33814bb\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\d4b86c2924b573c699bbdb8dff103fcc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\231bbeec1e57b0e94e33fbc63ee9b815\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\510bc9b78b97d17326c3b2860a098f84\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\d1e3391a6ec3e674c685a71cceb030d4\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\25a15f1c3666280859adcaf166eccdea\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\9ea7dbc3e4e354409fe1564c98b21aba\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\5f6640758e9fb8b94ad8438b2e09fa4b\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c46f8dbd70850425ff39b28465eceb50\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\fba3d52a22c2075c772c7d842177af18\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\358a93196caef6f5ad51aa5523e080b6\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\e48c2431c1595dc78fecdf080aea7c54\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\613b2b4b48d83195b844d6cb19991062\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ab89c8ca84476bcedf1368074f7fa020\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\da9e8e0d7b40abe9186d9167da01b5df\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\8d3510518625d7d1ff817432487498e2\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\020e9886db3a1565f5ccb9378b6c7909\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\91f035aea3ae0ef046acbcfe0de3b75e\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\a7f1e204e4be2fc8ca12d135b165ac95\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\3acb55459d81f516bb2d4f2719d74803\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\65a37d42ceddd7a345a783c420f531e6\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\419ca78fa0a35cb645e03886dc263dfd\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\be2a7a355b86e60d1dce513829a8f99a\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ecff164f0629912e3c21327de312ae5b\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:3:11-59
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:5:3-42:17
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\62c88fcffc2bbfb71227ca1e0de3d4d9\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\62c88fcffc2bbfb71227ca1e0de3d4d9\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\1609763f46c85f7b614c10186264cb65\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\1609763f46c85f7b614c10186264cb65\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\613b2b4b48d83195b844d6cb19991062\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\613b2b4b48d83195b844d6cb19991062\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ab89c8ca84476bcedf1368074f7fa020\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ab89c8ca84476bcedf1368074f7fa020\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\613b2b4b48d83195b844d6cb19991062\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:7:7-33
+	android:theme
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:6:7-26
+activity#com.raywenderlich.android.whysoserious.ui.welcome.WelcomeActivity
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:14:5-21:16
+	android:exported
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:15:9-32
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:14:15-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:16:7-20:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:17:9-60
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:17:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:19:9-68
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:19:19-66
+activity#com.raywenderlich.android.whysoserious.ui.login.LoginActivity
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:23:5-26:71
+	android:screenOrientation
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:25:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:24:9-47
+activity#com.raywenderlich.android.whysoserious.ui.register.RegisterActivity
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:28:5-31:71
+	android:screenOrientation
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:30:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:31:9-69
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:29:9-53
+activity#com.raywenderlich.android.whysoserious.ui.addJoke.AddJokeActivity
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:33:5-36:71
+	android:screenOrientation
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:35:9-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:36:9-69
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:34:9-51
+activity#com.raywenderlich.android.whysoserious.ui.main.MainActivity
+ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:38:5-41:43
+	android:screenOrientation
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:40:9-45
+	android:theme
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:41:9-41
+	android:name
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml:39:9-45
+uses-sdk
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\62c88fcffc2bbfb71227ca1e0de3d4d9\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\62c88fcffc2bbfb71227ca1e0de3d4d9\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\1609763f46c85f7b614c10186264cb65\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\1609763f46c85f7b614c10186264cb65\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\982d01b9ecc77ec5b450ac83fa8533fa\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\982d01b9ecc77ec5b450ac83fa8533fa\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\e1e7f858bc95c05809f8d24e653ea2f8\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\e1e7f858bc95c05809f8d24e653ea2f8\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\2551c7702de3d7656efee5fd4c9d8e9f\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\2551c7702de3d7656efee5fd4c9d8e9f\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\aa5628243cc3f588943bdc04dba1594f\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\aa5628243cc3f588943bdc04dba1594f\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c41d104b0a1ee2d23059161df261612e\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c41d104b0a1ee2d23059161df261612e\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c9dcf85699ac4200e1d3cfc1e33814bb\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c9dcf85699ac4200e1d3cfc1e33814bb\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\d4b86c2924b573c699bbdb8dff103fcc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\d4b86c2924b573c699bbdb8dff103fcc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\231bbeec1e57b0e94e33fbc63ee9b815\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\231bbeec1e57b0e94e33fbc63ee9b815\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\510bc9b78b97d17326c3b2860a098f84\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\510bc9b78b97d17326c3b2860a098f84\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\d1e3391a6ec3e674c685a71cceb030d4\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\d1e3391a6ec3e674c685a71cceb030d4\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\25a15f1c3666280859adcaf166eccdea\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\25a15f1c3666280859adcaf166eccdea\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\9ea7dbc3e4e354409fe1564c98b21aba\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\9ea7dbc3e4e354409fe1564c98b21aba\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\5f6640758e9fb8b94ad8438b2e09fa4b\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\5f6640758e9fb8b94ad8438b2e09fa4b\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c46f8dbd70850425ff39b28465eceb50\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\c46f8dbd70850425ff39b28465eceb50\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\fba3d52a22c2075c772c7d842177af18\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\fba3d52a22c2075c772c7d842177af18\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\358a93196caef6f5ad51aa5523e080b6\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\358a93196caef6f5ad51aa5523e080b6\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\e48c2431c1595dc78fecdf080aea7c54\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\e48c2431c1595dc78fecdf080aea7c54\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\613b2b4b48d83195b844d6cb19991062\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\613b2b4b48d83195b844d6cb19991062\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ab89c8ca84476bcedf1368074f7fa020\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ab89c8ca84476bcedf1368074f7fa020\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\da9e8e0d7b40abe9186d9167da01b5df\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\da9e8e0d7b40abe9186d9167da01b5df\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\8d3510518625d7d1ff817432487498e2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\8d3510518625d7d1ff817432487498e2\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\020e9886db3a1565f5ccb9378b6c7909\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\020e9886db3a1565f5ccb9378b6c7909\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\91f035aea3ae0ef046acbcfe0de3b75e\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\91f035aea3ae0ef046acbcfe0de3b75e\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\a7f1e204e4be2fc8ca12d135b165ac95\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\a7f1e204e4be2fc8ca12d135b165ac95\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\3acb55459d81f516bb2d4f2719d74803\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\3acb55459d81f516bb2d4f2719d74803\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\65a37d42ceddd7a345a783c420f531e6\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\65a37d42ceddd7a345a783c420f531e6\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\419ca78fa0a35cb645e03886dc263dfd\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\419ca78fa0a35cb645e03886dc263dfd\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\be2a7a355b86e60d1dce513829a8f99a\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\be2a7a355b86e60d1dce513829a8f99a\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ecff164f0629912e3c21327de312ae5b\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\johnson.oyesina\.gradle\caches\transforms-3\ecff164f0629912e3c21327de312ae5b\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\johnson.oyesina\Documents\Projects\Whysoserious\Whysoserious\Whysoserious - starter\app\src\main\AndroidManifest.xml
